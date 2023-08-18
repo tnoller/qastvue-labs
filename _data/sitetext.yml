@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Captivating Websites"
         desc: "Your digital presence matters. QastVue Labs designs stunning websites that engage, convert, and leave a lasting impression. Unleash the power of your online brand."
-        icon: fas fa-pencil #find more at https://fontawesome.com/icons
+        icon: fas fa-globe #find more at https://fontawesome.com/icons
       - title: "AI Chatbots Redefined"
         desc: "Revolutionize customer interactions. Our AI chatbots provide instant solutions, enhance user experiences, and transform engagement. Elevate your customer service now."
         icon: fas fa-laptop
@@ -38,13 +38,13 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  # timeline:
-  #   title: "Timeline"
-  #   text: ""
-  #   section: timeline
-  #   # left is the default
-  #   #start_align: "left"
-  #   events:
+  timeline:
+    title: "Timeline"
+    text: ""
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
   #     - title: "Our Humble Beginnings"
   #       year: "2009-2011"
   #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
