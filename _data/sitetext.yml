@@ -21,9 +21,9 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "Crafting Captivating Websites"
+      - title: "Captivating Websites"
         desc: "Your digital presence matters. QastVue Labs designs stunning websites that engage, convert, and leave a lasting impression. Unleash the power of your online brand."
-        icon: fas fa-pencil #find more at https://fontawesome.com/icons
+        icon: fab fa-pencil #find more at https://fontawesome.com/icons
       - title: "AI Chatbots Redefined"
         desc: "Revolutionize customer interactions. Our AI chatbots provide instant solutions, enhance user experiences, and transform engagement. Elevate your customer service now."
         icon: fas fa-laptop
@@ -70,28 +70,28 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "yes" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      # - title: "envato"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/envato.jpg
+      # - title: "designmodo"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/designmodo.jpg
+      # - title: "themeforest"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/themeforest.jpg
+      # - title: "Creative Market"
+      #   url: https://github.com/raviriley/agency-jekyll-theme
+      #   logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "OUR TEAM"
     text: ""
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 
     section: team
     people:
       - name: "Todd Noller"
         role: "Director"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/tn-img.jpeg
         social:
           - url: https://tnoller.github.io
             icon: fab fa-github
