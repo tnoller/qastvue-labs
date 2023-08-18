@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/qastvue-labs" # the subpath of your site, e.g. /blog
 
 title      : QastVue Labs
-email      : dev@qastvuelabs.com #this is also the email contact forms will go to
+email      : tjnoller@gmail.com #this is also the email contact forms will go to
 description: "Elevate your business with QastVue Labs – Your ultimate destination for website development, AI chatbot innovation, and business process optimization. Partner with us to unlock growth through cutting-edge technology."
 author     : Todd Noller
 # logo:     #optional, defaults to site title
